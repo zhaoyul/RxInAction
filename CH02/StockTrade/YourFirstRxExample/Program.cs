@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace FirstRxExample
 {
-    class Program
+   class Program
     {
         private static StockTicker _stockTicker;
 
